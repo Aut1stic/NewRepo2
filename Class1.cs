@@ -1,4 +1,4 @@
 ﻿{
     Console.WriteLine("Привет");
-    Console.WriteLine("Добро пожаловать в C#");
+    Console.WriteLine("Добро пожаловать в эээ ну лан не важно");
 }
